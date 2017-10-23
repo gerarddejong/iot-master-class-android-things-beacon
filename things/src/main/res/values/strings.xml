@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IoT Beacon</string>
+    <string name="eddystone_logo">Eddystone Logo</string>
 </resources>
